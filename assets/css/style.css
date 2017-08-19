@@ -8,8 +8,8 @@ body {
 	font-family: "Georgia", "Times New Roman", Times, serif;
 	top-padding:0;
 	margin: 0 0 75px;
-	height:100%;
-	width:100%;
+	height: 100%;
+	width: 100%;
 }
 
 
@@ -27,7 +27,7 @@ header {
 .name {
 	margin-left: 100px;
 	background-color:#4aaaa5;
-	color:white;
+	color: white;
 	padding: 20px;
 	margin-top: 0px;
 	float: left;
@@ -54,8 +54,8 @@ header {
 	padding: 10px;
 	width: 650px;
 	margin-left: 100px;
-	margin-bottom:30px;
-	float:left;
+	margin-bottom: 30px;
+	float: left;
 	line-height: 30px;
 }
 
@@ -89,7 +89,7 @@ h2{
 	margin-left: 100px;
 	height: 180px;
 	width:250px;
-	overflow:auto;
+	overflow: auto;
 	align-content: right;
 	padding: 10px;
 }
@@ -140,7 +140,7 @@ h2{
 	padding-left: 10px;
 	padding-top: 10px;
 	margin-left: 100px;
-	margin-bottom:30px;
+	margin-bottom: 30px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 }
@@ -208,14 +208,14 @@ h3 {
 }
 
 .portfolio-icon-left {
-	position:relative;
+	position: relative;
 	margin: 15px;
 	margin-left: 30px;
 	float: left;
 }
 
 .portfolio-icon-right {
-	position:relative;
+	position: relative;
 	margin: 15px;
 	margin-left: 30px;
 	float: left;
